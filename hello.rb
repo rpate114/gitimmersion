@@ -12,3 +12,8 @@ put"whats you favorite number"
 my_num = gets.strip
 
 puts "My age is, #(my_num)"
+
+put"whats you phone number"
+my_number = gets.strip
+
+puts "My age is, #(my_number)"
