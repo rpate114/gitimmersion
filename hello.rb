@@ -14,6 +14,6 @@ my_num = gets.strip
 puts "My age is, #(my_num)"
 
 put"whats you address"
-my_qwwww = gets.strip
+my_qww = gets.strip
 
-puts "My age is, #(my_qwwww)"
+puts "My age is, #(my_qww)"
