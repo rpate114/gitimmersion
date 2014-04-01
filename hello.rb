@@ -7,3 +7,8 @@ put"whats you name"
 my_name = gets.strip
 
 puts "My name is, #(my_name)"
+
+put"whats you favorite number"
+my_num = gets.strip
+
+puts "My age is, #(my_num)"
