@@ -13,7 +13,7 @@ my_num = gets.strip
 
 puts "My age is, #(my_num)"
 
-put"whats you phone number"
-my_ph = gets.strip
+put"whats you address"
+my_qw = gets.strip
 
-puts "My age is, #(my_ph)"
+puts "My age is, #(my_qw)"
