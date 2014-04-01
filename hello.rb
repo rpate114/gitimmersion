@@ -2,3 +2,8 @@ put"whats you age"
 my_age = gets.strip
 
 puts "My age is, #(my_age)"
+
+put"whats you name"
+my_name = gets.strip
+
+puts "My name is, #(my_name)"
